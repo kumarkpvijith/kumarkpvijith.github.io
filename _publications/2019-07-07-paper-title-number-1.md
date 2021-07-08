@@ -1,7 +1,7 @@
 ---
 title: "Fundamental Limits of Coded Caching: The Memory Rate Pair (K-1-1/K, 1/(K-1))"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-07-07-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-07-07
 venue: 'IEEE International Symposium on Information Theory'
