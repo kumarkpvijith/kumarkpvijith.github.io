@@ -2,7 +2,7 @@
 title: "Pareto Optimal Schemes in Coded Caching"
 collection: publications
 permalink: /publication/2019-07-07-Pareto-Optimal-Schemes-in-Coded-Caching
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Vijith Kumar K P, Brijesh Kumar Rai, Tony Jacob.'
 date: 2019-07-07
 venue: 'IEEE International Symposium on Information Theory'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
